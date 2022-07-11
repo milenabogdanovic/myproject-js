@@ -1,0 +1,80 @@
+body {
+    background-color: rgb(5, 92, 92) !important;
+    margin-top: 120px !important;
+  }
+  h1 {
+    margin-top: 20px !important;
+    color: rgb(233, 16, 16) !important;
+    text-align: center !important;
+  }
+  .col-md-6 {
+    box-shadow: 5px 5px 5px 5px black !important;
+    border-radius: 50px !important;
+    padding-left: 20px !important;
+  }
+  
+  .math-sign {
+    background-color: #eee6d8 !important;
+    color: rgb(235, 17, 17) !important;
+    order: none !important;
+    border-radius: 200% !important;
+    height: 5rem !important;
+    width: 5rem !important;
+    margin-bottom: 5px !important;
+    margin: 5px !important;
+    font-style: bolder !important;
+    font-size: 30px !important;
+  }
+  .numb {
+    background-color: #333333;
+    color: white;
+    border: none;
+    border-radius: 200% !important;
+    height: 5rem !important;
+    width: 5rem !important;
+    margin-bottom: 5px !important;
+    margin: 5px !important;
+    font-size: 30px !important;
+  
+    border: 0.2px solid black !important;
+  }
+  .numb:hover {
+    /*background-color: blueviolet;*/
+    /*background-image: linear-gradient(to right, #25aae1, #4481eb, #04befe, #3f86ed) !important;
+      box-shadow: 0 4px 15px 0 rgba(65, 132, 234, 0.75) !important;*/
+    background-color: white !important;
+    color: black !important;
+    font-size: 40px !important;
+  }
+  
+  .sign {
+    background-color: rgb(128, 128, 128) !important;
+    box-shadow: 0px 0px 11px 0px black !important;
+  }
+  .math-sign:hover {
+    background-color: grey !important;
+    box-shadow: 0px 0px 11px 0px rgb(160, 10, 10) !important;
+  }
+  #textarea {
+    margin-top: 25px !important;
+    color: rgb(52, 24, 206) !important;
+    height: 50px !important;
+    width: 100% !important;
+    font-size: 40px !important;
+    text-align: left !important;
+    padding-top: 5px !important;
+    border-radius: 10px !important;
+    transition: 0.5s !important;
+    font-style: bolder !important;
+  }
+  #textarea:hover {
+    background-color: black !important;
+    color: white !important;
+    border: none !important;
+  }
+  
+  .table {
+    border: rgb(54, 53, 53) !important;
+  }
+  
+  
